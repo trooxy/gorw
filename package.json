@@ -1,0 +1,16 @@
+{
+  "name": "grow-a-garden-bot",
+  "version": "1.0.0",
+  "description": "Grow A Garden Discord Stock Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
